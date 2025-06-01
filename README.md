@@ -1,5 +1,6 @@
 <div align="center">
-## Hi! My name is Luca 👋
+
+# Hi! My name is Luca 👋
 
 I am a Ph.D. student at [Imaging and Vision Lab](http://ivl.disco.unimib.it/), in the Department of Informatics, Systems and Communication (DISCo) of the University of Milano-Bicocca. <br>
 My research focuses on computational photography, color constancy and spectral imaging.
